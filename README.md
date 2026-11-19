@@ -1,7 +1,7 @@
 # Hi hi 👋
 **hannie2w** is a ✨ _special_ ✨ profile
 🎂
-
+$\color{red}{\text{Красный текст}}$
 ![kotyonka](https://media1.tenor.com/m/aGj-frNYMFEAAAAC/cat-cat-dance.gif)
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
