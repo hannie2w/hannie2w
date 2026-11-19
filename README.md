@@ -1,7 +1,7 @@
 # Hi hi 👋
 <div align="center">
 
-:sparkles: $\color{#ffc0cb}{\text{My special profile}}$ :sparkles:
+:sparkles: My special profile :sparkles:
 
 </div>
 
