@@ -1,5 +1,5 @@
 # Hi hi 👋
-$\color{red}{\text{**hannie2w** is a ✨ _special_ ✨ profile 🎂}}$
+$\color{#2ea44f}{\text{**hannie2w** is a ✨ _special_ ✨ profile 🎂}}$
 ![kotyonka](https://media1.tenor.com/m/aGj-frNYMFEAAAAC/cat-cat-dance.gif)
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
