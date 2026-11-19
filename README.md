@@ -1,8 +1,8 @@
 # Hi hi 👋
 <div align="center">
 
-:sparkles: $\color{#ffc0cb}{\text{Мой крутой проект}}$ :sparkles:
-
+:sparkles: $\color{#ffc0cb}{\text{My special profile}}$ :sparkles:
+![kotyonka](https://media1.tenor.com/m/aGj-frNYMFEAAAAC/cat-cat-dance.gif)
 </div>
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
