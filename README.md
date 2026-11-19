@@ -1,7 +1,9 @@
 # Hi hi 👋
-**hannie2w** is a ✨ _special_ ✨ profile 🎂
+<div align="center">
 
-![kotyonka](https://media1.tenor.com/m/aGj-frNYMFEAAAAC/cat-cat-dance.gif)
+:rocket: $\color{#2ea44f}{\text{Мой крутой проект}}$ :sparkles:
+
+</div>
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)
