@@ -1,7 +1,7 @@
 # Hi hi 👋
 <div align="center">
 
-:rocket: $\color{#2ea44f}{\text{Мой крутой проект}}$ :sparkles:
+:sparkles: $\color{#ffc0cb}{\text{Мой крутой проект}}$ :sparkles:
 
 </div>
 
