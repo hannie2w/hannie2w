@@ -1,6 +1,5 @@
 # Hi hi 👋
 **hannie2w** is a ✨ _special_ ✨ profile
-![A cat asleep on a sofa](cat.png)
 ![kotyonka](https://media1.tenor.com/m/aGj-frNYMFEAAAAC/cat-cat-dance.gif)
 <!--
 **hannie2w is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
