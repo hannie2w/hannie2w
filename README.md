@@ -1,6 +1,6 @@
 # Hi hi 👋
 **hannie2w** is a ✨ _special_ ✨ profile
-:birthday:
+🎂
 
 ![kotyonka](https://media1.tenor.com/m/aGj-frNYMFEAAAAC/cat-cat-dance.gif)
 
