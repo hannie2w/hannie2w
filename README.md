@@ -1,5 +1,6 @@
 # Hi hi 👋
 **hannie2w** is a ✨ _special_ ✨ profile
+![A cat asleep on a sofa](cat.png)
 <!--
 **hannie2w is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
