@@ -1,7 +1,7 @@
 # Hi hi 👋
-**hannie2w/hannie2w** is a ✨ _special_ ✨ repository 
+**hannie2w** is a ✨ _special_ ✨ profile
 <!--
-**hannie2w/hannie2w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hannie2w is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
