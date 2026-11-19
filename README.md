@@ -1,6 +1,7 @@
 # Hi hi 👋
 **hannie2w** is a ✨ _special_ ✨ profile
-:heartpulse:
+:birthday:
+
 ![kotyonka](https://media1.tenor.com/m/aGj-frNYMFEAAAAC/cat-cat-dance.gif)
 <!--
 **hannie2w is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
